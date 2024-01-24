@@ -4,6 +4,8 @@
 ##放行端口  
        iptables -I INPUT -p tcp --dport 443 -j ACCEPT  
 
-FinalShell下载：https://wa6.lanzoui.com/ihjg2y3h14j  
-科学上网软件下载：https://github.com/Kejifaxian/welcome/  
+FinalShell下载：  
+    https://wa6.lanzoui.com/ihjg2y3h14j  
+科学上网软件下载：  
+  https://github.com/Kejifaxian/welcome/  
 订阅转换：https://acl4ssr-sub.github.io/  
