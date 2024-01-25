@@ -6,6 +6,11 @@
 
 FinalShell下载：  
     https://wa6.lanzoui.com/ihjg2y3h14j  
-科学上网软件下载：  
-  https://github.com/Kejifaxian/welcome/  
+### 各平台客户端  
+Windows（v2rayN）：https://github.com/2dust/v2rayN/releases/tag/6.23  
+
+Android（v2rayNG）：https://github.com/2dust/v2rayNG/releases/tag/1.8.5  
+
+IOS（shadowrocket）：https://apps.apple.com/app/shadowrocket/id932747118  
+
 订阅转换：https://acl4ssr-sub.github.io/  
