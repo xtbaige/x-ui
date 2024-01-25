@@ -9,6 +9,8 @@
 ### 安装X-UI面板  
     bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/956bf85bbac978d56c0e319c5fac2d6db7df9564/install.sh) 0.3.4.4
 
+## 端口开放检测： 
+    https://ping.eu/port-chk  
 ## 放行端口  
        iptables -I INPUT -p tcp --dport 443 -j ACCEPT  
 
