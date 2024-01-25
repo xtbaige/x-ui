@@ -4,6 +4,8 @@
 
 ## 目前最简单、最安全、最稳定的专属节点搭建方法  
 
+### 适用 debian ubuntu 系统安装代码  
+
 ### 安装X-UI面板  
     bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/956bf85bbac978d56c0e319c5fac2d6db7df9564/install.sh) 0.3.4.4
 
