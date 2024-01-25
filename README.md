@@ -1,4 +1,10 @@
-### 安装X-UI面板
+#### 创建者：xtbaige  
+##### 更新时间：2024-1-20 23:49:04
+#### 感谢大家一路支持 [卖货的老张]  
+
+####目前最简单、最安全、最稳定的专属节点搭建方法  
+
+### 安装X-UI面板  
     bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/956bf85bbac978d56c0e319c5fac2d6db7df9564/install.sh) 0.3.4.4
 
 ##放行端口  
